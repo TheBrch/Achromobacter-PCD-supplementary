@@ -9,5 +9,8 @@
   - [SNV distances](./SNV_distances)
   - [Joined SNV and gene content distances](./Gene_SNV_joined_distances)
 
-- Skani output (species identification): [Skani](./Skani.tsv)
-- panqc output (pan-genome quality control): [panqc](./panqc)
+- Skani output (species identification): [Skani](./skani)
+- panqc output (pan-genome QC): [panqc](./panqc)
+- Assembly QC:
+  - [quast](./quast)
+  - [busco](./busco.tsv)
