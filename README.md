@@ -14,3 +14,4 @@
 - Assembly QC:
   - [quast](./quast)
   - [busco](./busco.tsv)
+- Snippy-core read alignment to respective species reference sequence stats: [snippy-core](snippy_core.tsv)
