@@ -12,6 +12,6 @@
 - Skani output (species identification): [Skani](./skani)
 - panqc output (pan-genome QC): [panqc](./panqc)
 - Assembly QC:
-  - [quast](./quast)
-  - [busco](./busco.tsv)
+  - [QUAST](./quast)
+  - [BUSCO](./busco.tsv)
 - Snippy-core read alignment to respective species reference sequence stats: [snippy-core](snippy_core.tsv)
