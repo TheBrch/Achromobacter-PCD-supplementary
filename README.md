@@ -7,7 +7,7 @@
 - PDF figures of pairwise gene content distances. Contains pan-genome and every species with more than one sample:
   - [Gene content distances](./Gene_distances)
   - [SNV distances](./SNV_distances)
-  - [Joined SNV and gene content distances](./Gene_SNV_joined_distances)
+  - [Joined SNV and gene content distances](./Gene_SNV_joined_distances) (Includes TSV tables of distance values)
 
 - Skani output (species identification): [Skani](./skani)
 - panqc output (pan-genome QC): [panqc](./panqc)
