@@ -13,5 +13,5 @@
 - panqc output (pan-genome QC): [panqc](./panqc)
 - Assembly QC:
   - [QUAST](./quast)
-  - [BUSCO](./busco.tsv)
+  - [BUSCO](./busco)
 - Snippy-core read alignment to respective species reference sequence stats: [snippy-core](snippy_core.tsv)
